@@ -1,0 +1,32 @@
+{
+  "name": "cadence",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest --run"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "lucide-react": "^1.14.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-router-dom": "^7.15.0",
+    "recharts": "^3.8.1",
+    "zustand": "^5.0.13"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@vitejs/plugin-react": "^4.7.0",
+    "autoprefixer": "^10.5.0",
+    "happy-dom": "^20.9.0",
+    "postcss": "^8.5.14",
+    "tailwindcss": "^3.4.19",
+    "vite": "^5.4.21",
+    "vitest": "^1.6.1"
+  }
+}

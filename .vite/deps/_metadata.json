@@ -1,0 +1,40 @@
+{
+  "hash": "6ed6b206",
+  "configHash": "df0fa73f",
+  "lockfileHash": "55b79daa",
+  "browserHash": "f502b535",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "11469fb7",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f4ac194b",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "9d8f31e3",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.mjs",
+      "file": "lucide-react.js",
+      "fileHash": "a7662a4e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-I2YDLM6A": {
+      "file": "chunk-I2YDLM6A.js"
+    },
+    "chunk-MLED7MKX": {
+      "file": "chunk-MLED7MKX.js"
+    }
+  }
+}
