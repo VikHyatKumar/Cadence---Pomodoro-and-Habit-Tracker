@@ -25,11 +25,11 @@ The interesting engineering isn't the UI. It's the browser APIs underneath: time
 
 | Timer — focus session with progress ring | Habits — today view + 7-day grid |
 |---|---|
-| ![Timer page](docs/screenshot-timer.png) | ![Habits page](docs/screenshot-habits.png) |
+| ![Timer page](docs/Screenshot%202026-05-12%20225725.png) | ![Habits page](docs/Screenshot%202026-05-12%20225736.png) |
 
 | Stats — charts + summary cards | Dark mode |
 |---|---|
-| ![Stats page](docs/screenshot-stats.png) | ![Dark mode](docs/screenshot-dark.png) |
+| ![Stats page](docs/Screenshot%202026-05-12%20225751.png) 
 
 ---
 
